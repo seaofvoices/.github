@@ -14,4 +14,12 @@ This is where I share my open-source projects.
 
 My projects revolve around the [Luau](https://github.com/luau-lang/luau) ecosystem. You will find many Luau libraries but also a Luau code transformer called [darklua](https://github.com/seaofvoices/darklua).
 
-Recently, I've taken on the challenge to connect the different Luau (and Lua!) environments together. For that, I have made it possible to publish Luau packages using npm.
+I've taken on the challenge to connect the different Luau (and Lua!) environments together. For that, I have made it possible to publish Luau packages using npm.
+
+Sometimes I write articles:
+
+- [Why You Should Use npm for Luau](https://medium.com/@jeparlefrancais/why-you-should-use-npm-for-luau-22113f54f1fa)
+- [How to Create a Luau package](https://medium.com/@jeparlefrancais/how-to-create-a-luau-package-68d42093e7da)
+- [React Components for Roblox Studio Plugins](https://medium.com/@jeparlefrancais/react-roblox-studio-plugin-a415893e4d2c)
+
+All my articles on Medium: https://medium.com/@jeparlefrancais
